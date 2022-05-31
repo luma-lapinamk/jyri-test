@@ -14,7 +14,7 @@ execute:
 # ----------------
 repository:
   url: https://github.com/luma-lapinamk/jyri-test
-  branch: master
+  branch: main
 
 # HTML-settings and launch buttons
 # ---------------------------------
